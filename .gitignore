@@ -4,3 +4,13 @@ out/
 TreeMngr\.iml
 
 \.idea/workspace\.xml
+
+build/classes/
+
+build/reports/
+
+build/resources/
+
+build/test-results/
+
+build/tmp/

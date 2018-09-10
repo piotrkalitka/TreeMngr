@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TreeMngr.iml" filepath="$PROJECT_DIR$/.idea/modules/TreeMngr.iml" />
       <module fileurl="file://$PROJECT_DIR$/TreeMngr.iml" filepath="$PROJECT_DIR$/TreeMngr.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TreeMngr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TreeMngr_main.iml" group="TreeMngr" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TreeMngr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TreeMngr_test.iml" group="TreeMngr" />
