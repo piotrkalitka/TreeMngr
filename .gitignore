@@ -1,6 +1,6 @@
 
 out/
-
-\.idea/
-
 \.gradle/
+TreeMngr\.iml
+
+\.idea/workspace\.xml
